@@ -1,4 +1,4 @@
-# 🏏 Cricket Quiz - Dynamic Quiz Application
+# Cricket Quiz - Dynamic Quiz Application
 
 An interactive cricket quiz application that generates dynamic questions on every refresh and provides instant results upon submission. Test your cricket knowledge with randomized questions!
 
